@@ -1,0 +1,2 @@
+INDEX VERSION 1.130+C:\Users\brusa\Desktop\CursosInformática\Alura - Desenvolvimento Básico(Cpqd)\Java\.metadata\.plugins\org.eclipse.jdt.core
+661260841.index
